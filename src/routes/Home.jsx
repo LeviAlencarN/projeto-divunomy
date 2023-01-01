@@ -35,9 +35,7 @@ const Home= () => {
                     </p>
                     <div className="img">
 
-                    </div>
-                    
-                
+                    </div>  
                 </div>
             </main>
         

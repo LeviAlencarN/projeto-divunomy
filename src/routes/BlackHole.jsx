@@ -1,11 +1,15 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import Navegation from "../components/Nav";
 
 function BlkHole(){
     return (
         <div>
-            <h1>Buracos negros</h1>
-            <Link to={'/'}>Retornar</Link>
+            <div className="nav">
+                <Navegation/>
+            </div>
+            
+            <h1>Buracos Negros</h1>
         </div>
     )
 }
