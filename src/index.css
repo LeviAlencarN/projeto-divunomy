@@ -35,6 +35,8 @@ h2{
 }
 
 .text{
+    display: flex;
+    align-items: center;
     font-size: 38pt;
     letter-space: 2px;
     width: 700px;
@@ -46,4 +48,15 @@ p{
     font-size: 10pt;
     width: 500px;
     margin-left: 10px;
+    margin-bottom: 180px;
+}
+
+.foguetao{
+    width: 450px;
+    margin-left: 230px;
+    margin-top: -55px;
+}
+
+.img{
+    
 }
